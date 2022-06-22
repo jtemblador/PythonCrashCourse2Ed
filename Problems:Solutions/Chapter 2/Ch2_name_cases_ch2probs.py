@@ -5,8 +5,8 @@ print(f"Hello {name}, I love you")
 print(name.upper())
 print(f"{name.lower()}\n")
 
-famous_name  = " yo mama"
-famous_quote = "baba booey "
-quote        = " ya dig? "
+famous_name  = " ratzo"
+famous_quote = "Hey! "
+quote        = " I'm walkin' here! "
 
 print(f"{famous_name.lstrip().title()} once said {famous_quote.rstrip()}, {quote.strip()}")
