@@ -13,7 +13,7 @@ names = ['Jason', 'matthew', 'david', 'Mark']
 print(names[0])
 print(names[1])
 print(names[2])
-print(names[3])
+print(names[3]) 
 
 #Problem 3-2
 print('\nStart of Problem 3-2')
