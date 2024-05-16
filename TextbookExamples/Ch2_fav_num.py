@@ -42,7 +42,7 @@ int main(int argc, char*argv[]) {
     //Print the initial array
     cout<<"The Original Array"<<endl;
     prntAry(ary,arySize,modNum);
-    
+
     //Print the average of the array
     float meanum=mean(ary, arySize);
     prntMea(meanum);
