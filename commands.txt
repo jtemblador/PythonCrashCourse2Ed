@@ -8,3 +8,12 @@ Space + F + F
 
 View all buffers
 Space + F + B
+
+Open sidebar
+CTRL + N
+
+Create new file
+A 
+
+
+
