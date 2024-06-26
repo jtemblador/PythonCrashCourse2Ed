@@ -8,6 +8,4 @@ else:
     print("\nYou're not tall enough!")
 
 
-print(f"{dsds}")
-
-
+    
