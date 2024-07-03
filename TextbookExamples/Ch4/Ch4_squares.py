@@ -10,7 +10,7 @@ print(squares)
 squares = []
 
 for val in range(1, 11):
-	squares.append(val ** 2)	#all in one line
+	squares += [val ** 2]	#all in one line
 print (squares)
 
 squares = []

@@ -5,5 +5,5 @@ print(players[:4])	#if no start, will begin from beginning
 print(players[4:])	#if no end, will go to end 
 print(players[-3:])	#prints last 3 elements of list
 
-for player in players[-3:-1]:
+for player in players[-3:-1]: # prints from third to last all the way to 
 	print(player.title())
